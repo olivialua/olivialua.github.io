@@ -1,0 +1,42 @@
+body {
+	background: url("../images/dinner_salad.jpg");
+	background-size:cover;
+	color: #59493B;
+
+}
+h1 {
+	font-family: "Courier New", Courier, Arial, monospace;
+font-weight: 100;
+font-size: 70px;
+text-align: center;
+margin-top: 79px;
+line-height: 1px;
+
+}
+h2 {
+	font-family: 'Lato', sans-serif;
+	font-weight:100;
+	text-align: left;
+	margin-left: 10px;
+	margin-right: 100px;
+	margin-top: 200px;
+	margin-bottom: -25px;
+	letter-spacing: 3px;
+}
+hr {
+	width: 100px;	
+	margin: 50px;
+	border-color: #59493B;
+	margin-left: 105px;
+
+}
+p {
+	font-family: 'Chivo', sans-serif;
+	text-align: left;
+	margin-left: 10px;
+margin-top: -30px;
+margin-right: 921px;
+line-height: 22px;
+font-weight: 100;
+	
+}
