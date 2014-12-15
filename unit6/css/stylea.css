@@ -1,0 +1,84 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background: url("../images/kitchen2.jpg");
+	background-size: cover;
+	font-family: 'Raleway', sans-serif;
+	color: 0d0907;
+}
+header{
+	margin: 20px 0;
+	width: 100%;
+
+}
+header img{
+	display: block;
+	float: left;
+	width: 170px;
+	margin: 10px 0 0 30px;
+}
+
+nav {
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+	letter-spacing: 1px;
+display: block;
+	float: right;
+	margin: 30px 0;
+}
+
+nav a{
+text-decoration: none;
+color: #f2f2f2;
+font-weight: bolder;
+padding: 50px;
+margin: 10px;
+
+}
+
+section{
+	background-color: #f2f2f2;
+	width: 550px;
+	height: 250px;
+	margin-top: 110px;
+	margin-left: 425px;
+	padding: 3px;
+	opacity: 0.9;
+}
+section p{
+margin: 30px 40px;
+padding: 0;
+letter-spacing: 0.3px;
+font-weight: bolder;
+/*color: #823A2A;*/
+color: #000000;
+font-size: 14px;
+}
+footer {
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+	font-size: 10px;
+	padding: 10px 0;
+	margin-top: 260px;
+	color: #ffffff;
+}
+
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+
+a:hover{
+	color: gold;
+}
+
+
+

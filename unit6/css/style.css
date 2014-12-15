@@ -1,0 +1,95 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background: url("../images/trout.jpg");
+	background-size: cover;
+	font-family: 'Raleway', sans-serif;
+	color: #823A2A;
+}
+header{
+	margin: 20px 0;
+	width: 100%;
+
+}
+header img{
+	display: block;
+	float: left;
+	width: 170px;
+	margin: 10px 0 0 30px;
+}
+
+nav {
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+	letter-spacing: 1px;
+font-weight: bolder;
+display: block;
+	float: right;
+	margin: 30px 0;
+}
+
+nav a{
+text-decoration: none;
+color: #823A2A;
+padding: 50px;
+margin: 10px;
+
+}
+section{
+width: 500px;
+margin-top: 150px;
+text-align: center;
+}
+
+section p{
+	text-align: center;
+	line-height: 20px;
+letter-spacing: 2px;
+}
+
+input[type="submit"]{
+	font-family: 'Raleway', sans-serif;
+	background-color: #836865;
+	color: white;
+	font-size: 16px;
+	border-radius: 8px;
+	padding:10px;
+	margin-left: 10px;
+	margin-top: 50px;
+	border: 3px outset #ffffff;
+	outline: none !important;
+
+}
+
+footer {
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+	font-size: 12px;
+	padding: 10px 0;
+	margin-top: 200px;
+	color: #823A2A;
+}
+
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+
+a:hover{
+	color: #FFFFFF;
+	
+}
+#popup:hover{
+	background-color: #8c7b77;
+}
+
+
+
