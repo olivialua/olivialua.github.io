@@ -89,6 +89,7 @@ a:hover{
 }
 #popup:hover{
 	background-color: #8c7b77;
+	cursor: pointer;
 }
 
 
